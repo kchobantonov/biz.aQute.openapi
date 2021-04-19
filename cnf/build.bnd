@@ -12,7 +12,7 @@
 base.version:           1.6.0
 
 -groupid:               biz.aQute
--pom:                   version=${base.version}-SNAPSHOT
+-pom:                   version=${base.version}
 
 Bundle-Vendor			aQute SARL
 
